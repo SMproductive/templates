@@ -1,6 +1,7 @@
 body {
 	background-color: #2e3440;
 	color: #d8dee9;
+	padding: 1%;
 }
 h1, h2, h3 {
 	color: #e5e9f0;
@@ -40,4 +41,7 @@ div {
 }
 address {
 	color: #5e81ac;
+}
+p {
+	text-align: justify;
 }
