@@ -7,10 +7,9 @@ body {
 }
 h1, h2, h3 {
 	color: #e5e9f0;
-	margin-left: 1%;
 }
 .logo {
-	width: 5%;
+	width: 20%;
 }
 img {
 	width: 100%;
@@ -30,6 +29,7 @@ td.top {
 }
 .contentSection {
 	border: 2px solid #4c566a;
+	padding-left: 1%;
 }
 address {
 	color: #5e81ac;
