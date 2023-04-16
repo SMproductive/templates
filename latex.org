@@ -1,19 +1,7 @@
-#+LaTeX_CLASS: org-plain-latex
-#+LATEX_CLASS_OPTIONS: [a4paper, 11pt, woside]
+#+LaTeX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper, 11pt, twoside]
 
 #+LATEX_HEADER: \usepackage[left=3cm,right=2cm, top=2cm, bottom=2cm]{geometry}
-
-#+LATEX_HEADER: \usepackage[utf8]{inputenc} % File encoding
-#+LATEX_HEADER: \usepackage{amsmath} % Math things
-#+LATEX_HEADER: \usepackage{graphicx} % Sraphic support
-#+LATEX_HEADER: \usepackage{listings} % For code snippets
-#+LATEX_HEADER: \usepackage{lmodern} % Sets the right font
-#+LATEX_HEADER: \usepackage{ngerman} % German language support
-#+LATEX_HEADER: \usepackage{physics} % Physical signs like omega...
-#+LATEX_HEADER: \usepackage{pstricks-add}
-#+LATEX_HEADER: \usepackage{pstricks} %Post script macros
-#+LATEX_HEADER: \usepackage[colorlinks]{hyperref} % Make clickable links
-#+LATEX_HEADER: \usepackage[explicit]{titlesec} % For editing headings
 
 % Color Links
 #+LATEX_HEADER: \hypersetup{colorlinks, linkcolor=black, urlcolor=bblue}
