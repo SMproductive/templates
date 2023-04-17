@@ -1,7 +1,12 @@
 #+LaTeX_CLASS: article
+#+LATEX_COMPILER: xelatex
 #+LATEX_CLASS_OPTIONS: [a4paper, 11pt, twoside]
 
 #+LATEX_HEADER: \usepackage[left=3cm,right=2cm, top=2cm, bottom=2cm]{geometry}
 
+#+LATEX_HEADER: \usepackage{fontspec}
+
 % Color Links
-#+LATEX_HEADER: \hypersetup{colorlinks, linkcolor=black, urlcolor=bblue}
+# TODO hypersetup link underline
+#+LATEX_HEADER: \hypersetup{colorlinks=false}
+#+LATEX_HEADER: \setmainfont{FreeSerif}
