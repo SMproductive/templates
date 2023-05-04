@@ -1,3 +1,4 @@
+#+auto_tangle: nil
 #+LaTeX_CLASS: article
 #+LATEX_COMPILER: xelatex
 #+LATEX_CLASS_OPTIONS: [a4paper, 11pt, twoside]

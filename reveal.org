@@ -1,3 +1,4 @@
+#+auto_tangle: nil
 #+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
 #+REVEAL_REVEAL_JS_VERSION: 4
 #+REVEAL_THEME: https://reveal.electrominati.com/styles/nord.css
