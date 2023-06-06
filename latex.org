@@ -9,6 +9,7 @@
 #+LATEX_HEADER: \usepackage{listings}
 #+LATEX_HEADER: \usepackage{titlesec}
 #+LATEX_HEADER: \usepackage{xcolor}
+#+LATEX_HEADER: \usepackage[autostyle=true]{csquotes}
 
 #+LATEX_HEADER: \setmainfont{FreeSerif}
 
