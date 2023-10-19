@@ -12,5 +12,6 @@
 #+LATEX_HEADER: \usepackage[autostyle=true]{csquotes}
 
 #+LATEX_HEADER: \setmainfont{FreeSerif}
+\newpage{}
 
 # Hypersetup is set in doom configuration
