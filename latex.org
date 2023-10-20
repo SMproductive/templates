@@ -14,3 +14,4 @@
 #+LATEX_HEADER: \setmainfont{FreeSerif}
 
 # Hypersetup is set in doom configuration
+\setcounter{section}{-1}
